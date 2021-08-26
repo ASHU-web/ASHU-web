@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ashutosh, a Final Year UG @IIT Ropar.
 
-Welcome to my github Repo. Currently you can find 1 special project on my profile. Feel free to explore further. If you find any bug in my code, actually it is a feature 😐.
+Welcome to my github Repo. Currently you can find 1 special project on my profile. Feel free to explore further. Found any bug in my code? Actually it is a feature 😐.
 
 
 
