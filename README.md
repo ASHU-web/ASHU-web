@@ -1,7 +1,11 @@
-### Hi there 👋 I am Ashutosh, a Final Year UG @IIT Ropar.
+### Hi there 👋 I am Ashutosh, graduate from IIT Ropar. I have 1+ year of experience as Software Engineer @ yellow.ai
 
 Welcome to my github Repo. Feel free to explore my github repos and fork them. Found any bug in my code? Ummm.... Actually it is a feature 😐.
 
+I have started posting new blogs on medium to document the work and share the useful findings:
+<ul>
+    <a href="https://medium.com/dev-genius/simulating-multi-cluster-environment-for-druid-nodes-323a414e37c2"><li>Simulating Multi-cluster Environment for Druid Nodes</li></a>
+    </ul>
 
 
 # I worked with 
